@@ -1,0 +1,5 @@
+Hola git!
+
+git init => Creamos un repositorio.
+git status => Vemos info del repo. 
+git add => pasar archivos al area de seguimiento.   
