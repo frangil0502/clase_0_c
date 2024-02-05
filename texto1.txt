@@ -2,4 +2,6 @@ Hola git!
 
 git init => Creamos un repositorio.
 git status => Vemos info del repo. 
-git add => pasar archivos al area de seguimiento.   
+git add => pasar archivos al area de seguimiento.
+git push origin master => subo los commits al remoto.
+git pull origin master => trae los commits nuevos del remoto
